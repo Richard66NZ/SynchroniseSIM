@@ -18,4 +18,4 @@ is closed. To achieve a perfect score of 100% may require a few attempts.
 
 Installer is now available on this site. Tested on macOS Catalina and Monterey - let me know if you have any issues/problems.
 
-[![Example video](http://img.youtube.com/vi/EPIuf4u-gAM/0.jpg)](http://www.youtube.com/watch?v=EPIuf4u-gAM)
+[![Example video](http://img.youtube.com/vi/EPIuf4u-gAM/0.jpg)](http://www.youtube.com/EPIuf4u-gAM)
