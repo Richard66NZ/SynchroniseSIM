@@ -1,12 +1,8 @@
-# SynchroniseSIM
+# SynchroniseSIM 2025
 Simulation of Sychronising a Generator to the electrical grid
 
 ## Introduction
 
-This simulation represents a rather basic model of a 150MW (gross)
-single unit superheated Rankine cycle power plant with a pulverised fuel
-coal fired boiler.\
-\
 The aim is to synchronise the turbine/generator to the 50Hz grid with
 the minimal disturbance to the machine or the grid system.
 The key to receiving a good score is to ensure the voltage, freqency and
